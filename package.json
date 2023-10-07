@@ -12,9 +12,9 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "engines": {
-    "node": "16.x",
+    "node": "18.x",
     "yarn": "3.x",
-    "npm": "8.x"
+    "npm": "9.x"
   },
   "keywords": [],
   "author": "",
