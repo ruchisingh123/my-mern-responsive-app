@@ -5,7 +5,7 @@ node_modules/
 
 
 .yarnrc.ymlgit 
-.DS_Store
+
 
 /client/.env.local
 /client/.env.development.local
